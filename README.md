@@ -1,2 +1,2 @@
 # 156
-Architecture - Art - Design page
+Architecture - Art - Design
